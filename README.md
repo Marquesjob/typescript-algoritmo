@@ -1,1 +1,1 @@
-# Treinando typescript e Algoritmo.
+# Treinando typescript e Algoritmos.
